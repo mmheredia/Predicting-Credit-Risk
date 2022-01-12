@@ -2,6 +2,8 @@
 
 This project consisted of creating supervised machine learning models to predict whether a loan from LendingClub will become high risk or not.
 
+![Lending Club Logo](Images/LendingClubLogo.jpg)
+
 ## Background
 
 [LendingClub](https://www.lendingclub.com/) is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
